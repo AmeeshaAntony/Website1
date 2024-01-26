@@ -40,6 +40,7 @@ h2 {
     
 }
 .menu-item3 {
+	margin-right:300px;
 	justify-content: space-between;
 	display: flex;    
 }
@@ -52,13 +53,21 @@ max-width: 60%;
 .menu-item4 {
 justify-content: space-between;	
 display: flex;
-max-width: 60%;
+max-width: 65%;
     
 }
 
 .menu-item2 {
 	display: flex;
-    
+    	justify-content: space-between;	
+	max-width: 100%;
+
+}
+.menu-item5 {
+	display: flex;
+    	justify-content: space-between;	
+	max-width: 100%;
+	padding-right : 10px;
 }
 .menu-item img:first-child {
       margin-left: 0;
