@@ -67,7 +67,7 @@ max-width: 65%;
 	display: flex;
     	justify-content: space-between;	
 	max-width: 100%;
-	padding-right : 0px;
+	padding-right : 30px;
 }
 .menu-item img:first-child {
       margin-left: 0;
